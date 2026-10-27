@@ -1,0 +1,1 @@
+class ErrorDeCompra inherits Exception {}
